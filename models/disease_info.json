@@ -1,0 +1,412 @@
+{
+  "Fungal infection": {
+    "description": "A fungal infection caused by fungi that can affect the skin, nails, and mucous membranes.",
+    "precautions": [
+      "Keep skin clean and dry",
+      "Use antifungal creams",
+      "Wear breathable clothing",
+      "Avoid sharing personal items"
+    ],
+    "severity": "Mild"
+  },
+  "Allergy": {
+    "description": "An immune system response to a foreign substance like pollen, pet dander, or certain foods.",
+    "precautions": [
+      "Identify and avoid allergens",
+      "Take prescribed antihistamines",
+      "Keep windows closed during pollen season",
+      "Consult an allergist"
+    ],
+    "severity": "Mild"
+  },
+  "GERD": {
+    "description": "Gastroesophageal Reflux Disease - chronic acid reflux causing heartburn and discomfort.",
+    "precautions": [
+      "Avoid spicy and fatty foods",
+      "Eat smaller meals",
+      "Don't lie down after eating",
+      "Elevate head while sleeping"
+    ],
+    "severity": "Moderate"
+  },
+  "Chronic cholestasis": {
+    "description": "A condition where bile flow from the liver is reduced or blocked.",
+    "precautions": [
+      "Avoid alcohol",
+      "Eat a low-fat diet",
+      "Take vitamin supplements",
+      "Regular liver function tests"
+    ],
+    "severity": "Serious"
+  },
+  "Drug Reaction": {
+    "description": "An adverse reaction to a medication causing various symptoms from mild rashes to severe conditions.",
+    "precautions": [
+      "Stop the suspected medication",
+      "Consult doctor immediately",
+      "Keep a list of allergies",
+      "Wear medical alert bracelet"
+    ],
+    "severity": "Serious"
+  },
+  "Peptic ulcer diseae": {
+    "description": "Sores that develop on the lining of the stomach, small intestine, or esophagus.",
+    "precautions": [
+      "Avoid NSAIDs",
+      "Quit smoking",
+      "Limit alcohol",
+      "Take prescribed medications"
+    ],
+    "severity": "Moderate"
+  },
+  "AIDS": {
+    "description": "Advanced stage of HIV infection that severely damages the immune system.",
+    "precautions": [
+      "Take antiretroviral therapy",
+      "Practice safe behaviors",
+      "Regular medical check-ups",
+      "Maintain healthy lifestyle"
+    ],
+    "severity": "Critical"
+  },
+  "Diabetes ": {
+    "description": "A metabolic disease causing high blood sugar due to insulin production or utilization issues.",
+    "precautions": [
+      "Monitor blood sugar regularly",
+      "Maintain healthy diet",
+      "Exercise regularly",
+      "Take prescribed insulin/medications"
+    ],
+    "severity": "Serious"
+  },
+  "Gastroenteritis": {
+    "description": "Inflammation of stomach and intestines causing vomiting and diarrhea, often from viral infection.",
+    "precautions": [
+      "Stay hydrated",
+      "Wash hands frequently",
+      "Avoid contaminated food/water",
+      "Rest adequately"
+    ],
+    "severity": "Moderate"
+  },
+  "Bronchial Asthma": {
+    "description": "A condition causing airways to swell and narrow, making breathing difficult.",
+    "precautions": [
+      "Avoid triggers like smoke/dust",
+      "Use prescribed inhalers",
+      "Monitor breathing",
+      "Have emergency plan"
+    ],
+    "severity": "Serious"
+  },
+  "Hypertension ": {
+    "description": "High blood pressure that can lead to heart disease, stroke, and kidney problems.",
+    "precautions": [
+      "Reduce salt intake",
+      "Exercise regularly",
+      "Limit alcohol",
+      "Take prescribed medications"
+    ],
+    "severity": "Serious"
+  },
+  "Migraine": {
+    "description": "Severe recurring headaches often accompanied by nausea, vomiting, and sensitivity to light.",
+    "precautions": [
+      "Identify and avoid triggers",
+      "Manage stress",
+      "Get regular sleep",
+      "Stay hydrated"
+    ],
+    "severity": "Moderate"
+  },
+  "Cervical spondylosis": {
+    "description": "Age-related wear and tear affecting spinal disks in the neck.",
+    "precautions": [
+      "Maintain good posture",
+      "Do neck exercises",
+      "Use ergonomic furniture",
+      "Avoid heavy lifting"
+    ],
+    "severity": "Moderate"
+  },
+  "Paralysis (brain hemorrhage)": {
+    "description": "Loss of muscle function due to brain hemorrhage affecting motor control.",
+    "precautions": [
+      "Seek emergency medical care",
+      "Rehabilitation therapy",
+      "Medication as prescribed",
+      "Lifestyle modifications"
+    ],
+    "severity": "Critical"
+  },
+  "Jaundice": {
+    "description": "Yellowing of skin and eyes due to high bilirubin levels in blood.",
+    "precautions": [
+      "Rest adequately",
+      "Stay hydrated",
+      "Avoid alcohol",
+      "Follow liver-friendly diet"
+    ],
+    "severity": "Serious"
+  },
+  "Malaria": {
+    "description": "A mosquito-borne disease caused by Plasmodium parasites affecting red blood cells.",
+    "precautions": [
+      "Use mosquito repellents",
+      "Sleep under nets",
+      "Take antimalarial drugs",
+      "Eliminate standing water"
+    ],
+    "severity": "Serious"
+  },
+  "Chicken pox": {
+    "description": "Highly contagious viral infection causing itchy blisters and flu-like symptoms.",
+    "precautions": [
+      "Stay isolated from others",
+      "Avoid scratching blisters",
+      "Take antivirals if prescribed",
+      "Keep skin clean"
+    ],
+    "severity": "Moderate"
+  },
+  "Dengue": {
+    "description": "Mosquito-borne viral disease causing high fever, severe headache, and joint pain.",
+    "precautions": [
+      "Use mosquito protection",
+      "Stay hydrated",
+      "Monitor platelet count",
+      "Seek medical attention for severe symptoms"
+    ],
+    "severity": "Serious"
+  },
+  "Typhoid": {
+    "description": "Bacterial infection causing prolonged high fever, weakness, and stomach pain.",
+    "precautions": [
+      "Drink purified water only",
+      "Wash hands frequently",
+      "Avoid street food",
+      "Get vaccinated"
+    ],
+    "severity": "Serious"
+  },
+  "hepatitis A": {
+    "description": "Highly contagious liver infection caused by the hepatitis A virus.",
+    "precautions": [
+      "Get vaccinated",
+      "Wash hands thoroughly",
+      "Avoid contaminated food/water",
+      "Rest and hydrate"
+    ],
+    "severity": "Moderate"
+  },
+  "Hepatitis B": {
+    "description": "Serious liver infection caused by hepatitis B virus, can become chronic.",
+    "precautions": [
+      "Get vaccinated",
+      "Practice safe behaviors",
+      "Avoid sharing needles",
+      "Regular liver monitoring"
+    ],
+    "severity": "Serious"
+  },
+  "Hepatitis C": {
+    "description": "A viral infection causing liver inflammation, often leading to serious liver damage.",
+    "precautions": [
+      "Avoid sharing needles",
+      "Practice safe behaviors",
+      "Get tested regularly",
+      "Antiviral treatment"
+    ],
+    "severity": "Serious"
+  },
+  "Hepatitis D": {
+    "description": "A serious liver disease caused by hepatitis D virus, only occurs with hepatitis B.",
+    "precautions": [
+      "Get hepatitis B vaccination",
+      "Avoid high-risk behaviors",
+      "Regular monitoring",
+      "Antiviral therapy"
+    ],
+    "severity": "Critical"
+  },
+  "Hepatitis E": {
+    "description": "A liver disease caused by hepatitis E virus, usually spreads through contaminated water.",
+    "precautions": [
+      "Drink clean water only",
+      "Practice good hygiene",
+      "Avoid raw pork",
+      "Rest and hydrate"
+    ],
+    "severity": "Moderate"
+  },
+  "Alcoholic hepatitis": {
+    "description": "Liver inflammation caused by drinking too much alcohol over time.",
+    "precautions": [
+      "Stop drinking alcohol completely",
+      "Nutritional therapy",
+      "Regular liver function tests",
+      "Medical supervision"
+    ],
+    "severity": "Serious"
+  },
+  "Tuberculosis": {
+    "description": "A serious bacterial infection that mainly affects the lungs and can spread through air.",
+    "precautions": [
+      "Complete full antibiotic course",
+      "Cover mouth when coughing",
+      "Good ventilation",
+      "Regular check-ups"
+    ],
+    "severity": "Serious"
+  },
+  "Common Cold": {
+    "description": "A mild viral infection of the upper respiratory tract causing runny nose and cough.",
+    "precautions": [
+      "Rest adequately",
+      "Stay hydrated",
+      "Wash hands frequently",
+      "Avoid close contact with others"
+    ],
+    "severity": "Mild"
+  },
+  "Pneumonia": {
+    "description": "Infection causing inflammation of air sacs in lungs, which may fill with fluid.",
+    "precautions": [
+      "Get vaccinated",
+      "Avoid smoking",
+      "Take prescribed antibiotics fully",
+      "Rest and hydrate"
+    ],
+    "severity": "Serious"
+  },
+  "Dimorphic hemmorhoids(piles)": {
+    "description": "Swollen veins in the rectum or anus causing pain, bleeding, and discomfort.",
+    "precautions": [
+      "Eat high-fiber diet",
+      "Stay hydrated",
+      "Avoid straining",
+      "Take sitz baths"
+    ],
+    "severity": "Moderate"
+  },
+  "Heart attack": {
+    "description": "Occurs when blood flow to part of the heart is blocked, causing heart muscle damage.",
+    "precautions": [
+      "Call emergency services immediately",
+      "Take aspirin if not allergic",
+      "Rest and keep calm",
+      "Follow cardiac rehabilitation"
+    ],
+    "severity": "Critical"
+  },
+  "Varicose veins": {
+    "description": "Twisted, enlarged veins visible under the skin, usually in legs.",
+    "precautions": [
+      "Exercise regularly",
+      "Elevate legs when resting",
+      "Wear compression stockings",
+      "Avoid prolonged standing"
+    ],
+    "severity": "Mild"
+  },
+  "Hypothyroidism": {
+    "description": "A condition where the thyroid gland doesn't produce enough thyroid hormones.",
+    "precautions": [
+      "Take thyroid medication daily",
+      "Regular TSH level checks",
+      "Eat iodine-rich foods",
+      "Exercise regularly"
+    ],
+    "severity": "Moderate"
+  },
+  "Hyperthyroidism": {
+    "description": "Overactive thyroid gland producing excessive thyroid hormones.",
+    "precautions": [
+      "Take prescribed medications",
+      "Avoid iodine-rich foods",
+      "Manage stress",
+      "Regular thyroid monitoring"
+    ],
+    "severity": "Serious"
+  },
+  "Hypoglycemia": {
+    "description": "Abnormally low blood sugar level causing dizziness, confusion, and weakness.",
+    "precautions": [
+      "Eat regular meals",
+      "Carry quick sugar source",
+      "Monitor blood sugar",
+      "Consult diabetologist"
+    ],
+    "severity": "Serious"
+  },
+  "Osteoarthristis": {
+    "description": "Degenerative joint disease causing cartilage breakdown and joint pain.",
+    "precautions": [
+      "Maintain healthy weight",
+      "Low-impact exercises",
+      "Hot/cold therapy",
+      "Pain relief medications"
+    ],
+    "severity": "Moderate"
+  },
+  "Arthritis": {
+    "description": "Inflammation of one or more joints causing pain, stiffness, and swelling.",
+    "precautions": [
+      "Physical therapy",
+      "Anti-inflammatory medications",
+      "Maintain healthy weight",
+      "Stay active"
+    ],
+    "severity": "Moderate"
+  },
+  "(vertigo) Paroymsal  Positional Vertigo": {
+    "description": "A condition causing brief episodes of dizziness due to inner ear crystals movement.",
+    "precautions": [
+      "Perform Epley maneuver",
+      "Move slowly",
+      "Avoid sudden head movements",
+      "Consult ENT specialist"
+    ],
+    "severity": "Moderate"
+  },
+  "Acne": {
+    "description": "Skin condition causing pimples, blackheads, and cysts, especially on the face.",
+    "precautions": [
+      "Keep skin clean",
+      "Avoid touching face",
+      "Use non-comedogenic products",
+      "Consult dermatologist"
+    ],
+    "severity": "Mild"
+  },
+  "Urinary tract infection": {
+    "description": "Infection in any part of the urinary system including kidneys, bladder, and urethra.",
+    "precautions": [
+      "Drink plenty of water",
+      "Urinate frequently",
+      "Maintain hygiene",
+      "Complete antibiotic course"
+    ],
+    "severity": "Moderate"
+  },
+  "Psoriasis": {
+    "description": "A chronic autoimmune condition causing rapid skin cell buildup creating scaling patches.",
+    "precautions": [
+      "Moisturize regularly",
+      "Avoid triggers like stress",
+      "Use prescribed topical treatments",
+      "Get moderate sun exposure"
+    ],
+    "severity": "Moderate"
+  },
+  "Impetigo": {
+    "description": "A highly contagious bacterial skin infection causing sores and blisters.",
+    "precautions": [
+      "Keep sores clean",
+      "Avoid touching sores",
+      "Wash hands frequently",
+      "Complete antibiotic course"
+    ],
+    "severity": "Mild"
+  }
+}
