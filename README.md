@@ -19,7 +19,7 @@ python train_model.py
 streamlit run app.py
 ```
 
-The app opens at **http://localhost:8501**
+The app opens at **https://smart-disease-predictor-upgraded.streamlit.app/**
 
 ---
 
