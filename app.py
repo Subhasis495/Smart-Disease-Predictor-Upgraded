@@ -127,7 +127,7 @@ html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
 # ── Hero ──────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="hero">
-    <h1>🏥 Smart Disease Predictor</h1>
+    <h1>Smart Disease Predictor</h1>
     <p>AI-powered symptom analysis using Random Forest & SVM — 41 diseases · 132 symptoms · 98%+ accuracy</p>
 </div>
 """, unsafe_allow_html=True)
@@ -144,7 +144,7 @@ with st.sidebar:
     )
 
     st.markdown("---")
-    st.markdown("### 📊 Model Performance")
+    st.markdown("### Model Performance")
 
     col1, col2 = st.columns(2)
     with col1:
@@ -153,7 +153,7 @@ with st.sidebar:
         st.metric("SVM", f"{metadata['svm_accuracy']*100:.1f}%", "Accuracy")
 
     st.markdown("---")
-    st.markdown("### ℹ️ About")
+    st.markdown("### About")
     st.markdown("""
     This tool uses **Machine Learning** trained on a clinical symptom dataset with:
     - 🔬 **4920** training samples
